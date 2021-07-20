@@ -1,7 +1,7 @@
 from tkinter import *
 import mysql.connector as mysql
 
-
+'''creating root'''
 
 root=Tk()
 root.geometry("500x500")
